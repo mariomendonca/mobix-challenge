@@ -1,4 +1,4 @@
-const n = 40
+const n = 20
 
 function drawHourglass(sandStart) {
   let j = n
